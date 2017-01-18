@@ -1,0 +1,3 @@
+[submodule "src/github.com/viney/mail"]
+	path = src/github.com/viney/mail
+	url = https://github.com/viney/mail
